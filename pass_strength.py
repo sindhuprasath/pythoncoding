@@ -1,3 +1,5 @@
+#This is my trial code
+
 mystr = input("Enter the password : ")
 strength = 0
         
